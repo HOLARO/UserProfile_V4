@@ -1,1 +1,2 @@
 # UserProfile_V4
+Hi Rodrigo! This is a new project that I've opened for my UserProfile practice set (Lesson 8 - Practice set - Object-oriented programming). An 'AAPT2 error' message displays, which used to disappear earlier (before I updated Android Studio yesterday) when I added the following line in gradle.properties: 'android.enableAapt2=false'. Afterwards everything would run like clockwork. This solution doesn't seem to be working any longer - but I don't know what the solution is now. Thank you for your kind help once again! 
